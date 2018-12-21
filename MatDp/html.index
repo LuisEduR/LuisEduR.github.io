@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <title>HTH math</title>
+        <head>
+            <link rel="stylesheet" type="text/css" href="DP.css">
+        </head>
+    <body>
+        <div class = "header">
+            <h1>Luis Resende's</h1>
+            <h1>Math Portfolio</h1>
+        </div>
+
+        <div class="row">
+            <div class="column">
+                <div class="Tbox">
+                    <h1>Bio</h1>
+                    <h4>Math + Brazil + Archery</h4>
+                    <p>My name is Luis Resende I'm a student in 11th grade at High Tech HIgh in San Diego, liberty Station, CA. I spent most of my life back in Brazil in south America, and I moved here to the US with 13 years old, before coming here I didn't know how to speak english at all, I just had to learn by talking to people. When I'm off the school I love to play some video specially ghost recon right now.</p>
+                </div>
+                <div id="image"></div>
+                
+            </div>
+                
+            <div class="column2">
+                <div class="Tbox2">
+                   <h1>Project</h1>
+                   <h4>Organization</h4>
+                   <p>We worked with the San Diego food bank organization. The thing that stood out the most was how many people they help each month, they help around 370.000 people, that was a really amazing thing for me, since I had never heard of this organization so I thought they would be a smaler, but they turned out to be the biggest organization in San Diego. Really cool thing that I learned was that when they recieve a larger amount of help is usually from wealthier families, because they bring a bigger group every time they come, like their 3-6 children they have. </p>
+                
+                </div>
+                <div class="Tbox2">
+                   <h4>Improvements</h4>
+                   <p>During this math project I belive one of the things I was most proud of was in the very end when I actully started to make sense of it, I worked mostly in the math part of witch was really fun, and because of that I improved my skills on spread sheet a lot. I belive because I worked really hard with one of my group mates in the last two weeks before the due date we manage to create this <a href="https://docs.google.com/document/d/1I-MQPxHtPPigBUIAvBTA4ApeORozoR10_OLrTKxDWFs/edit">wonderfull reaserch papper.</a></p>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <script src="Ragnarok.js"></script>
+
+</html>
